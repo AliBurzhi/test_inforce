@@ -1,0 +1,124 @@
+{
+    "products": [
+        {
+    "id": 1,
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easiest-ever-fruit-and-coconut-ice-cream-1589550075.jpg",
+    "name": "Ice Cream",
+    "count": 56,
+    "size": {
+    "width": 200,
+    "height": 150
+    },
+    "weight": "200g",
+    "comments": ["CommentModel", "CommentModel"]
+    },
+{
+    "id": 2,
+    "imageUrl": "https://i.pinimg.com/originals/ee/85/bd/ee85bdc2fa308c202da7ae651a614d7f.jpg",
+    "name": "Chocolade Cake",
+    "count": 25,
+    "size": {
+    "width": 200,
+    "height": 600
+    },
+    "weight": "200g",
+    "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+    "id": 3,
+    "imageUrl": "https://i.pinimg.com/originals/87/26/1a/87261a46912da157a227a79e9bbe473a.jpg",
+    "name": "Pink Ice Cream",
+    "count": 13,
+    "size": {
+    "width": 200,
+    "height": 150
+    },
+    "weight": "200g",
+    "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+    "id": 4,
+    "imageUrl": "https://img2.zakaz.ua/src.1613735543.ad72436478c_2021-02-19_Tamara/src.1613735543.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+    "name": "Lollipop Apple",
+    "count": 73,
+    "size": {
+    "width": 200,
+    "height": 25
+    },
+    "weight": "200g",
+    "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+    "id": 5,
+    "imageUrl": "https://res.cloudinary.com/dm8ly2rci/image/upload/c_fill,dpr_auto,f_auto,w_500/v1/site14/2021-04/chupachups_fruittella_product_image",
+    "name": "loliPop Three Taste",
+    "count": 50,
+    "size": {
+    "width": 200,
+    "height": 200
+    },
+    "weight": "200g",
+    "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+    "id": 6,
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easiest-ever-fruit-and-coconut-ice-cream-1589550075.jpg",
+    "name": "Ice Cream",
+    "count": 21,
+    "size": {
+    "width": 200,
+    "height": 200
+    },
+    "weight": "200g",
+    "comments": ["CommentModel", "CommentModel"]
+    },
+        {
+    "id": 7,
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easiest-ever-fruit-and-coconut-ice-cream-1589550075.jpg",
+    "name": "Ice Cream",
+    "count": 2,
+    "size": {
+    "width": 200,
+    "height": 200
+    },
+    "weight": "200g",
+    "comments": ["CommentModel", "CommentModel"]
+    },
+        {
+    "id": 8,
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easiest-ever-fruit-and-coconut-ice-cream-1589550075.jpg",
+    "name": "Ice Cream",
+    "count": 3,
+    "size": {
+    "width": 200,
+    "height": 200
+    },
+    "weight": "200g",
+    "comments": ["CommentModel", "CommentModel"]
+    },
+        {
+    "id": 9,
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easiest-ever-fruit-and-coconut-ice-cream-1589550075.jpg",
+    "name": "Ice Cream",
+    "count": 43,
+    "size": {
+    "width": 200,
+    "height": 200
+    },
+    "weight": "200g",
+    "comments": ["CommentModel", "CommentModel"]
+    },
+        {
+    "id": 10,
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easiest-ever-fruit-and-coconut-ice-cream-1589550075.jpg",
+    "name": "Ice Cream",
+    "count": 33,
+    "size": {
+    "width": 200,
+    "height": 200
+    },
+    "weight": "200g",
+    "comments": ["CommentModel", "CommentModel"]
+    }
+    ]
+}
