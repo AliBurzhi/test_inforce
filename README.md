@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Были использованы:
+
+JSON-SERVER для имитации backend.
+
+Реализован запрос на API для получения данных и отображение продуктовой сетки на экране с данными в ТЗ характеристиками.
+Так же по ТЗ был реализован механизм сортировки товаров по количеству с помощью выпадающего меню (по возрастанию и убыванию) доступных товаров в наличии (параметр: count) 
+
+
+
 
 ## Available Scripts
 
